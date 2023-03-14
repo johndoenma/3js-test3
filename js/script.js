@@ -80,7 +80,7 @@ function introAnimation() {
         })
 }
 
-// introAnimation() // call intro animation on start
+introAnimation() // call intro animation on start
 
 /////////////////////////////////////////////////////////////////////////
 //// DEFINE ORBIT CONTROLS LIMITS
